@@ -7,4 +7,4 @@ I will be free to write clean code in IntelliJ that allows me to solve all the t
 to the program and level to the given course of the hillel school.
 Freely use all services and applications, according to the training program.
 
-By the end of this course, my knowledge will be enough to bedding employment.
+By the end of this course, my knowledge will be enough to employment.

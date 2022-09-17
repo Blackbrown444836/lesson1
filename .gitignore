@@ -27,5 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
-lesson1.iml
+
+.idea
+out
+*.iml
